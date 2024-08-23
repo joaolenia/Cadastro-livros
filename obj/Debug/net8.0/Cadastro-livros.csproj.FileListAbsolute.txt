@@ -1,0 +1,15 @@
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/bin/Debug/net8.0/Cadastro-livros
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/bin/Debug/net8.0/Cadastro-livros.deps.json
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/bin/Debug/net8.0/Cadastro-livros.runtimeconfig.json
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/bin/Debug/net8.0/Cadastro-livros.dll
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/bin/Debug/net8.0/Cadastro-livros.pdb
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.AssemblyInfoInputs.cache
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.AssemblyInfo.cs
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.sourcelink.json
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.dll
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/refint/Cadastro-livros.dll
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.pdb
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.genruntimeconfig.cache
+/home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/ref/Cadastro-livros.dll
