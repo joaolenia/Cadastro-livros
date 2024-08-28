@@ -28,3 +28,6 @@ C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Deb
 C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.pdb
 C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.genruntimeconfig.cache
 C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\ref\Cadastro-livros.dll
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.csproj.AssemblyReference.cache
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro.010A0247.Up2Date
