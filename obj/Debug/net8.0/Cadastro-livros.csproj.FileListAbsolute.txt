@@ -13,3 +13,18 @@
 /home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.pdb
 /home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/Cadastro-livros.genruntimeconfig.cache
 /home/aluno/Documentos/arthur hatschbach graupmann/Cadastro-livros/obj/Debug/net8.0/ref/Cadastro-livros.dll
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\bin\Debug\net8.0\Cadastro-livros.exe
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\bin\Debug\net8.0\Cadastro-livros.deps.json
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\bin\Debug\net8.0\Cadastro-livros.runtimeconfig.json
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\bin\Debug\net8.0\Cadastro-livros.dll
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\bin\Debug\net8.0\Cadastro-livros.pdb
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.sourcelink.json
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.dll
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\refint\Cadastro-livros.dll
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.pdb
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\Cadastro-livros.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Documentos\POOguanabra\guanabara\Cadastro-livros\obj\Debug\net8.0\ref\Cadastro-livros.dll
